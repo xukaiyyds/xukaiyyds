@@ -13,6 +13,7 @@
 | :-----------: | :-----------: | :-----------: |
 | 博客框架 | [Hexo](https://github.com/hexojs/hexo) | 6.3.0 |
 | 博客主题 | [Fluid](https://github.com/fluid-dev/hexo-theme-fluid) | 1.9.4 |
+| 博客后台 | [Qexo](https://github.com/Qexo/Qexo) | 2.8.1 |
 | 博客评论 | [Twikoo](https://github.com/imaegoo/twikoo) | 1.6.8 |
 | CDN 加速 | [jsDelivr](https://www.jsdelivr.com/) | 免费 |
 | 域名 DNS | [腾讯云](https://console.cloud.tencent.com/) | 付费 |
