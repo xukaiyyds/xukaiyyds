@@ -1,6 +1,10 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xukaiyyds&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xukaiyyds&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 关于博主
 
-- [x] 学生党一枚
+- [x] ~学生党一枚~
 - [x] 酷爱音乐，一听歌心情就会变好
 - [x] 强迫症、拖延症、懒癌晚期患者，白日梦想家
 - [x] 精通 Java、PHP、Python、JavaScript 等几种编程语言的拼写
