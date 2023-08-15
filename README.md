@@ -10,3 +10,5 @@
 - [x] 精通 Java、PHP、Python、JavaScript 等几种编程语言的拼写
 - [x] 熟练掌握 Windows、Android、Mac Os、Ubuntu、Centos 等系统的开关机操作
 - [x] 喜欢哼着自己喜欢的音乐敲着自己不喜欢的代码，无聊时偶尔刷刷B站，吹吹口琴，玩玩滑板，弹弹吉他
+
+![](https://pic.imgdb.cn/item/64db6b2f661c6c8e5463863d.gif)
